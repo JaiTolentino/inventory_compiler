@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp",
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "*.tcc": "cpp",
+        "text_encoding": "cpp",
+        "typeinfo": "cpp"
+    }
+}
